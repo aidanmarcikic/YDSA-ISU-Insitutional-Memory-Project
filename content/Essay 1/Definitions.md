@@ -1,6 +1,6 @@
 ---
 title: Definitions
-draft: true
+draft: false
 tags:
 ---
 [[Core]], [[Activists]], [[Supporters]], and [[Disengaged]]

@@ -1,6 +1,6 @@
 ---
 title: Note to Reader
-draft: true
+draft: false
 tags:
 ---
 **The following “Manifesto” is not part of the formal proposal, and should not be used verbatim or released publicly in any situation currently.** 
